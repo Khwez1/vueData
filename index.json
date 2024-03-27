@@ -89,7 +89,10 @@
             "description":"Check out my jsCalculator",
             "github":"https://github.com/Khwez1/JSCalculator",
             "netlify":"https://aquamarine-pavlova-33a8aa.netlify.app/"
-        },
+        }
+    ],
+    "Project2":
+    [
         {
             "img":"https://i.postimg.cc/vTN8C8n1/Screenshot-2024-01-11-155409.png",
             "title":"Netflix clone",
@@ -111,9 +114,5 @@
             "github":"https://github.com/Khwez1/JsE-COM",
             "netlify":"https://wonderful-axolotl-007c90.netlify.app/"
         }
-    ],
-    "Project2":
-    [
-        
     ]
 }
